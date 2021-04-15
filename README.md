@@ -1,12 +1,13 @@
 # Kodluyoruz İlk Repo
 
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+Kodluyoruz Eğitimi kapsamında açtığım ilk repo 
+
 
 ## Instalation
 
-'''
+```
 git clone https://github.com/omertayhan/kodluyoruzilkrepo.git
-'''
+```
 
 ## Usage
 
