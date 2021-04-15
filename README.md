@@ -3,7 +3,7 @@
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo 
 
 
-## Instalation
+## Installation
 
 ```
 git clone https://github.com/omertayhan/kodluyoruzilkrepo.git
